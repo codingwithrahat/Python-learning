@@ -39,4 +39,8 @@ print(l)
 l.pop(0) #remove index 0, value 1
 print(l)
 
+#copy
+l2 = l.copy()
+print(l2)
+
 
