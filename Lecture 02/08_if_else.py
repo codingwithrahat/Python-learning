@@ -6,3 +6,9 @@ elif(age < 12):                     #else if
     print("Not Child")
 else:
     print("Maybe Allow")
+
+
+#() not matter
+
+if age > 1:
+    print("1")
